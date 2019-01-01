@@ -2,12 +2,12 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Dungeon_wallcorner.png-bae7723652fe2ef6cd11ac4969a45247.stex"
+path="res://.import/Dungeon2.png-0bc639651a5091a5f79f165743320817.stex"
 
 [deps]
 
-source_file="res://Art/Dungeon_wallcorner.png"
-dest_files=[ "res://.import/Dungeon_wallcorner.png-bae7723652fe2ef6cd11ac4969a45247.stex" ]
+source_file="res://Art/Dungeon2.png"
+dest_files=[ "res://.import/Dungeon2.png-0bc639651a5091a5f79f165743320817.stex" ]
 
 [params]
 
